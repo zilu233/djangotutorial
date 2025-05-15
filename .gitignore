@@ -1,0 +1,26 @@
+# Python相关
+*.pyc
+__pycache__/
+
+# Django相关
+db.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.pyo
+*.pyd
+
+# 环境变量文件
+.env
+
+# IDE相关
+.vscode/
+.idea/
+
+# 静态文件
+staticfiles/
+media/
+
+# 本地虚拟环境
+venv/
